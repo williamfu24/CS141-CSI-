@@ -1,0 +1,6 @@
+king
+regular
+helmet
+king
+moustache
+regular
